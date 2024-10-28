@@ -2,7 +2,7 @@
 
   comments for running :
   
-  #npm start client
+  #npm start server
 
    #npm start client
 
