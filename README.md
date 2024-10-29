@@ -2,8 +2,8 @@
 
   comments for running :
   
-  #npm start server
+  #npm run server
 
-   #npm start client
+   #npm run client
 
-   #npm start
+   #npm run dev
